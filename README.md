@@ -85,3 +85,5 @@ This project showcases the power of Power BI in transforming raw banking data in
 
 
 9️⃣  Screenshots / Demos
+
+show the dashboard look like  =  https://github.com/mrcool-shivesh/Credit-Card-dashboard/blob/main/Screenshot%202025-06-28%20225503.png
